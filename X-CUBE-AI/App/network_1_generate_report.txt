@@ -1,0 +1,21 @@
+Neural Network Tools for STM32 v1.2.0 (AI tools v5.0.0)
+Created date       : 2022-03-19 22:16:30
+
+Exec/report summary (generate err=-1)
+------------------------------------------------------------------------------------------------------------------------
+error              : INVALID MODEL: Couldn't load Keras model C:\Users\88691\Downloads\Try1-1.h5, error: Model saved with Keras 2.8.0 but <= 2.3.1 is supported
+model file         : C:\Users\88691\Downloads\Try1-1.h5
+type               : keras (keras_dump)
+c_name             : network_1
+compression        : None
+quantize           : None
+L2r error          : NOT EVALUATED
+workspace dir      : C:\Users\88691\AppData\Local\Temp\mxAI_workspace691411745550800915504529981339891
+output dir         : C:\Users\88691\.stm32cubemx\stm32ai_output
+
+
+INVALID MODEL: Couldn't load Keras model C:\Users\88691\Downloads\Try1-1.h5, error: Model saved with Keras 2.8.0 but <= 2.3.1 is supported
+
+Evaluation report (summary)
+--------------------------------------------------
+NOT EVALUATED
